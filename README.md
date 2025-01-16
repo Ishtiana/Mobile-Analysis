@@ -17,6 +17,11 @@ This repository contains a **Power BI Dashboard** and supporting SQL queries use
 2. **SQL**:
    - 🗄️ Extracted, transformed, and loaded (ETL) data into a structured format for analysis.
    - 🖋️ Wrote SQL queries to clean and prepare data for visualization in Power BI.
+   - 
+## Dashboard
+![11](https://github.com/user-attachments/assets/a2c7f6d0-31fe-42ec-85bf-a321c43d1892)
+![2](https://github.com/user-attachments/assets/6ac5f19a-8317-496b-84f1-d765514ee4bf)
+
 
 ## 🚀 How to Use:
 1. 🔄 Clone this repository.
